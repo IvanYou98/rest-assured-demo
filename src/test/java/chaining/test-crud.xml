@@ -1,4 +1,9 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
-<suite name = "$END$">
-    $END$
+<suite name="test crud chaining">
+    <test name="curd of user" thread-count="3" >
+        <parameter name="token" value="a0e35c00e076338cd95833d40bc6b865fbc375d6d89174a56026f480f305690b"/>
+        <packages>
+            <package name="chaining"/>
+        </packages>
+    </test>
 </suite>

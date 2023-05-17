@@ -1,4 +1,4 @@
-package cookie;
+package cookieAndHeader;
 
 import io.restassured.response.Response;
 import org.testng.annotations.Test;
@@ -7,7 +7,7 @@ import static io.restassured.RestAssured.*;
 import static org.hamcrest.Matchers.*;
 
 
-public class TestCookie {
+public class TestCookieAndHeader {
     @Test
     public void testGetCookies() {
         Response response = given()

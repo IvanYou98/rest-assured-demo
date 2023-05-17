@@ -1,8 +1,9 @@
+package quickStart;
+
 import io.restassured.http.ContentType;
 import org.testng.annotations.Test;
 
 import java.util.HashMap;
-import java.util.Objects;
 
 import static io.restassured.RestAssured.*;
 import static org.hamcrest.Matchers.*;

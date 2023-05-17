@@ -1,14 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca321a2c-0700-4ed9-a7c5-c1233b40ee76" name="Changes" comment="" />
+    <list default="true" id="ca321a2c-0700-4ed9-a7c5-c1233b40ee76" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/auth/BasicAuthTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/auth/OAuth2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/auth/SessionBasedAuthTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/auth/TokenBasedAuthTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/chaining/DataProviders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/chaining/TestCreate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/chaining/TestDelete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/chaining/TestGet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/chaining/TestUpdate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/chaining/test-crud.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/cookieAndHeader/TestCookieAndHeader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/fileUploadAndDownload/TestFileUpload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/jsonParse/TestJsonPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/jsonParse/TestPOJO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pathAndQuery/TestPathAndQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/quickStart/TestQuickStart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/requestBody/TestBuildingRequestBody.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/requestBody/person.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/xmlParse/TestXmlParse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/sample-file1.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TestNG Config File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -27,10 +69,120 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="TestNG./Users/yuanfanyou/Desktop/SDET/RestAssured/rest-assured-demo/src/test/java/chaining/test-crud.xml">
+    <configuration name="OAuth2ClientDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="OAuth2-client-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.OAuth2ClientDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OAuth2Test.testOAuth2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="rest-assured-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="auth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="auth" />
+      <option name="MAIN_CLASS_NAME" value="auth.OAuth2Test" />
+      <option name="METHOD_NAME" value="testOAuth2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SessionBasedAuthTest.testSessionBasedAuth" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="rest-assured-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="auth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="auth" />
+      <option name="MAIN_CLASS_NAME" value="auth.SessionBasedAuthTest" />
+      <option name="METHOD_NAME" value="testSessionBasedAuth" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestGet.testGetUser" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="rest-assured-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chaining.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="chaining" />
+      <option name="MAIN_CLASS_NAME" value="chaining.TestGet" />
+      <option name="METHOD_NAME" value="testGetUser" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TokenBasedAuthTest.testTokenBasedAuth" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="rest-assured-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="auth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="auth" />
+      <option name="MAIN_CLASS_NAME" value="auth.TokenBasedAuthTest" />
+      <option name="METHOD_NAME" value="testTokenBasedAuth" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/yuanfanyou/Desktop/SDET/RestAssured/rest-assured-demo/src/test/java/chaining/test-crud.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="rest-assured-demo" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/chaining/test-crud.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./Users/yuanfanyou/Desktop/SDET/RestAssured/rest-assured-demo/src/test/java/chaining/test-crud.xml" />
+        <item itemvalue="TestNG.TestGet.testGetUser" />
+        <item itemvalue="TestNG.OAuth2Test.testOAuth2" />
+        <item itemvalue="TestNG.TokenBasedAuthTest.testTokenBasedAuth" />
+        <item itemvalue="TestNG.SessionBasedAuthTest.testSessionBasedAuth" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -39,7 +191,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683773778296</updated>
+      <workItem from="1683773780041" duration="2803000" />
+      <workItem from="1683859288067" duration="6979000" />
+      <workItem from="1683999847804" duration="39420000" />
+      <workItem from="1684200542359" duration="22255000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
