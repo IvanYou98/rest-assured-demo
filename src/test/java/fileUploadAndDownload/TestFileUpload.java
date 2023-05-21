@@ -15,7 +15,7 @@ public class TestFileUpload {
     public void testFileUpload() {
         given()
                 .contentType(ContentType.MULTIPART)
-                .multiPart("file", new File(this.getClass().getClassLoader().getResource("sample-file1.txt").getPath()))
+                .multiPart("file", new File("src/test/resources/sample-file1.txt"))
                 .when()
                 .post("https://the-internet.herokuapp.com/upload")
                 .then()

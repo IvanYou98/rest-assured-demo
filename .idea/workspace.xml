@@ -5,33 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca321a2c-0700-4ed9-a7c5-c1233b40ee76" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/auth/BasicAuthTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/auth/OAuth2Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/auth/SessionBasedAuthTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/auth/TokenBasedAuthTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/chaining/DataProviders.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/chaining/TestCreate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/chaining/TestDelete.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/chaining/TestGet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/chaining/TestUpdate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/chaining/test-crud.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/cookieAndHeader/TestCookieAndHeader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/fileUploadAndDownload/TestFileUpload.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/jsonParse/TestJsonPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/jsonParse/TestPOJO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pathAndQuery/TestPathAndQuery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/quickStart/TestQuickStart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/requestBody/TestBuildingRequestBody.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/requestBody/person.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/xmlParse/TestXmlParse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/sample-file1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/rest-assured-demo/auth/OAuth2Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/rest-assured-demo/auth/OAuth2Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/rest-assured-demo/fileUploadAndDownload/TestFileUpload.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/rest-assured-demo/fileUploadAndDownload/TestFileUpload.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/rest-assured-demo/jsonParse/TestPOJO$User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/rest-assured-demo/jsonParse/TestPOJO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/rest-assured-demo/jsonParse/TestPOJO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/rest-assured-demo/quickStart/TestQuickStart.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/rest-assured-demo/quickStart/TestQuickStart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/fileUploadAndDownload/TestFileUpload.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/fileUploadAndDownload/TestFileUpload.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/jsonParse/TestPOJO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/jsonParse/TestPOJO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/quickStart/TestQuickStart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/quickStart/TestQuickStart.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,25 +47,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "1.8",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="TestNG./Users/yuanfanyou/Desktop/SDET/RestAssured/rest-assured-demo/src/test/java/chaining/test-crud.xml">
+}</component>
+  <component name="RunManager" selected="TestNG.TestPOJO.testJsonPath">
     <configuration name="OAuth2ClientDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="OAuth2-client-demo" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.OAuth2ClientDemoApplication" />
@@ -91,17 +73,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OAuth2Test.testOAuth2" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestFileUpload.testFileUpload" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="rest-assured-demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="auth.*" />
+          <option name="PATTERN" value="fileUploadAndDownload.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="auth" />
-      <option name="MAIN_CLASS_NAME" value="auth.OAuth2Test" />
-      <option name="METHOD_NAME" value="testOAuth2" />
+      <option name="PACKAGE_NAME" value="fileUploadAndDownload" />
+      <option name="MAIN_CLASS_NAME" value="fileUploadAndDownload.TestFileUpload" />
+      <option name="METHOD_NAME" value="testFileUpload" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -109,17 +91,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SessionBasedAuthTest.testSessionBasedAuth" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestPOJO.testJsonObject" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="rest-assured-demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="auth.*" />
+          <option name="PATTERN" value="jsonParse.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="auth" />
-      <option name="MAIN_CLASS_NAME" value="auth.SessionBasedAuthTest" />
-      <option name="METHOD_NAME" value="testSessionBasedAuth" />
+      <option name="PACKAGE_NAME" value="jsonParse" />
+      <option name="MAIN_CLASS_NAME" value="jsonParse.TestPOJO" />
+      <option name="METHOD_NAME" value="testJsonObject" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -127,17 +109,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestGet.testGetUser" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestPOJO.testJsonPath" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="rest-assured-demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chaining.*" />
+          <option name="PATTERN" value="jsonParse.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="chaining" />
-      <option name="MAIN_CLASS_NAME" value="chaining.TestGet" />
-      <option name="METHOD_NAME" value="testGetUser" />
+      <option name="PACKAGE_NAME" value="jsonParse" />
+      <option name="MAIN_CLASS_NAME" value="jsonParse.TestPOJO" />
+      <option name="METHOD_NAME" value="testJsonPath" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -145,17 +127,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TokenBasedAuthTest.testTokenBasedAuth" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestPOJO.testMap" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="rest-assured-demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="auth.*" />
+          <option name="PATTERN" value="jsonParse.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="auth" />
-      <option name="MAIN_CLASS_NAME" value="auth.TokenBasedAuthTest" />
-      <option name="METHOD_NAME" value="testTokenBasedAuth" />
+      <option name="PACKAGE_NAME" value="jsonParse" />
+      <option name="MAIN_CLASS_NAME" value="jsonParse.TestPOJO" />
+      <option name="METHOD_NAME" value="testMap" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -163,10 +145,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="/Users/yuanfanyou/Desktop/SDET/RestAssured/rest-assured-demo/src/test/java/chaining/test-crud.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestPOJO.testPOJOMapping" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="rest-assured-demo" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/chaining/test-crud.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jsonParse.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="jsonParse" />
+      <option name="MAIN_CLASS_NAME" value="jsonParse.TestPOJO" />
+      <option name="METHOD_NAME" value="testPOJOMapping" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -175,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG./Users/yuanfanyou/Desktop/SDET/RestAssured/rest-assured-demo/src/test/java/chaining/test-crud.xml" />
-        <item itemvalue="TestNG.TestGet.testGetUser" />
-        <item itemvalue="TestNG.OAuth2Test.testOAuth2" />
-        <item itemvalue="TestNG.TokenBasedAuthTest.testTokenBasedAuth" />
-        <item itemvalue="TestNG.SessionBasedAuthTest.testSessionBasedAuth" />
+        <item itemvalue="TestNG.TestPOJO.testJsonPath" />
+        <item itemvalue="TestNG.TestPOJO.testJsonObject" />
+        <item itemvalue="TestNG.TestPOJO.testMap" />
+        <item itemvalue="TestNG.TestPOJO.testPOJOMapping" />
+        <item itemvalue="TestNG.TestFileUpload.testFileUpload" />
       </list>
     </recent_temporary>
   </component>
@@ -194,11 +184,43 @@
       <workItem from="1683773780041" duration="2803000" />
       <workItem from="1683859288067" duration="6979000" />
       <workItem from="1683999847804" duration="39420000" />
-      <workItem from="1684200542359" duration="22255000" />
+      <workItem from="1684200542359" duration="23139000" />
+      <workItem from="1684533406955" duration="1446000" />
+      <workItem from="1684619603233" duration="6000" />
+      <workItem from="1684698000190" duration="8189000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/jsonParse/TestPOJO.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="TestNG">
+        <watch expression="((HashMap)js.map).entrySet().toArray()[2]" custom="java.util.HashMap" />
+        <watch expression="((HashMap)js.map).entrySet().toArray()[2]" custom="java.util.HashMap" />
+        <watch expression="((HashMap)js.map).entrySet().toArray()[2]" custom="java.util.HashMap" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>

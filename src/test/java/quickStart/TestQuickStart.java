@@ -32,9 +32,10 @@ public class TestQuickStart {
          */
         payload.put("name", userName);
         payload.put("job", "leader");
-        this.userId = given().contentType(ContentType.JSON)
-                .when()
+        this.userId = given()
+                .contentType(ContentType.JSON)
                 .body(payload)
+                .when()
                 .post("https://reqres.in/api/users")
                 .then()
                 .log().body()
@@ -65,7 +66,7 @@ public class TestQuickStart {
                 .statusCode(200);
     }
 
-//    @Test(dependsOnMethods = "updateUser")
+    //    @Test(dependsOnMethods = "updateUser")
     @Test(dependsOnMethods = "updateUser")
     public void deleteUser() {
         given()
